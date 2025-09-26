@@ -19,7 +19,7 @@ env:
   # Use docker.io for Docker Hub if empty
   REGISTRY: docker.io
   # github.repository as <account>/<repo>
-  IMAGE_NAME: lucim04/iscloud
+  IMAGE_NAME: luciamm04/iscloud
   
 
 
